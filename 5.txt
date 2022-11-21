@@ -1,0 +1,11 @@
+scrapy is a Python library that was created to scrape the web and build web crawlers. It is fast, simple, and can navigate through multiple web pages without much effort.
+
+Scrapy is available through the Pip Installs Python (PIP) library, here's a refresher on how to install PIP on Windows, Mac, and Linux.
+
+Using a Python Virtual Environment is preferred because it will allow you to install Scrapy in a virtual directory that leaves your system files alone. Scrapy's documentation recommends doing this to get the best results.
+
+Create a directory and initialize a virtual environment.
+
+You can now install Scrapy into that directory using a PIP command.
+
+A quick check to make sure Scrapy is installed properly
